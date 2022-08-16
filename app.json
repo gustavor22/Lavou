@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "lave",
+    "slug": "lave",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
